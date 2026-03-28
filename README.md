@@ -4,4 +4,4 @@ Initial project structure
 
 ## Structure
 - backend/
-- frontend/
+- frontend/frontend
